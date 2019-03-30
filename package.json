@@ -1,0 +1,26 @@
+{
+  "name": "FullstackDogAdoptionApp",
+  "version": "1.0.0",
+  "description": "A demo platform for kennels to put up dogs for adoption",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mojjammil/FullstackDogAdoptionApp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mojjammil/FullstackDogAdoptionApp/issues"
+  },
+  "homepage": "https://github.com/mojjammil/FullstackDogAdoptionApp#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "knex": "^0.16.3",
+    "nodemon": "^1.18.10",
+    "sqlite3": "^4.0.6"
+  }
+}
